@@ -4,6 +4,15 @@
 
 ###
 
+<!-- Typing Intro -->
+<p align="center">
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&center=true&vCenter=true&width=600&lines=Hi+I'm+Tanvir Hossain+👋;CSE+Student+📚;Web+Developer+💻;Open+Source+Enthusiast+🔥"
+    alt="Typing SVG"
+  />
+</p>
+
+
 <div align="center">
   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
   <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
