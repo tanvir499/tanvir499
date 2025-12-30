@@ -5,12 +5,7 @@
 ###
 
 <!-- Typing Intro -->
-<p align="center">
-  <img
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&center=true&vCenter=true&width=600&lines=Hi+I'm+Tanvir Hossain+👋;CSE+Student+📚;Web+Developer+💻;Open+Source+Enthusiast+🔥"
-    alt="Typing SVG"
-  />
-</p>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hello!+I+am+Tanvir+Hossain;Web+Developer+%F0%9F%92%BB;Turning+Ideas+into+Code+%F0%9F%9A%80)](https://git.io/typing-svg)
 
 
 <div align="center">
