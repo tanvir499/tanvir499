@@ -32,7 +32,7 @@
 
 ###
 
-<p align="left">I'm Tanvir Hossain from Chittagong,Bangladesh<br>- 🔭 I’m working as Frontend Developer<br>- 📚 I'm currently learning Next.JS<br>- 👯 I’m looking - To collaborate on open source projects.</p>
+<p align="left">I'm Tanvir Hossain from Chittagong,Bangladesh<br>- 🔭 I’m working as Web Developer<br>- 📚 I'm currently learning Next.JS<br>- 👯 I’m looking - To collaborate on open source projects.</p>
 
 ###
 
