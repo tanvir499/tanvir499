@@ -39,18 +39,18 @@
         👯 Looking to collaborate on open-source projects
       </p>
     </td>
-
-    <!-- Right Side: Dev Card -->
-    <td width="40%" align="center">
+    
+  </tr>
+   <!-- Right Side: Dev Card -->
+    <td width="35%" align="right">
       <a href="https://app.daily.dev/tanvir2">
         <img
-          src="https://api.daily.dev/devcards/v2/nhkh7buAm7LQFqAc57YWj.png?r=tg2&type=default"
-          width="300"
+          src="https://api.daily.dev/devcards/v2/nhkh7buAm7LQFqAc57YWj.png?r=tg2"
+          width="280"
           alt="Tanvir's Dev Card"
         />
       </a>
     </td>
-  </tr>
 </table>
 
 ###
