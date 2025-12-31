@@ -36,9 +36,9 @@
   alt="Tanvir's Dev Card"
 />
 
-<h3>👩‍💻 About Me</h3>
+<h3 align="center">👩‍💻 About Me</h3>
 
-<p>
+<p align="center">
 I'm <strong>Tanvir Hossain</strong> from Chittagong, Bangladesh 🇧🇩<br>
 🔭 Working as a Web Developer<br>
 📚 Currently learning Next.js<br>
