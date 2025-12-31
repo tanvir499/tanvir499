@@ -84,6 +84,3 @@ I'm <strong>Tanvir Hossain</strong> from Chittagong, Bangladesh 🇧🇩<br>
 
 ###
 
-<img src="https://raw.githubusercontent.com/tanvir499/tanvir499/output/snake.svg" alt="Snake animation" />
-
-###
