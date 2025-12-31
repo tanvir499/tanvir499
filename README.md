@@ -1,5 +1,6 @@
 <div align="center">
-  <img height="150" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdWZqMng3NzVqaXhhZG1pNGpidDl0OWF6eGhrbXN0aHZ6bXowM2JrOCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/bGgsc5mWoryfgKBx1u/giphy.gif"  />
+  <!-- <img height="150" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdWZqMng3NzVqaXhhZG1pNGpidDl0OWF6eGhrbXN0aHZ6bXowM2JrOCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/bGgsc5mWoryfgKBx1u/giphy.gif"  /> -->
+  <a href="https://app.daily.dev/tanvir2"><img src="https://api.daily.dev/devcards/v2/nhkh7buAm7LQFqAc57YWj.png?type=wide&r=9zw" width="652" alt="Tanvir's Dev Card"/></a>
 </div>
 
 ###
