@@ -27,14 +27,31 @@
 
 ###
 
-<h3 align="left">👩‍💻  About Me</h3>
+<table>
+  <tr>
+    <!-- Left Side: About Me -->
+    <td width="60%" valign="top">
+      <h3>👩‍💻 About Me</h3>
+      <p>
+        I'm <strong>Tanvir Hossain</strong> from Chittagong, Bangladesh 🇧🇩<br><br>
+        🔭 Working as a Web Developer<br>
+        📚 Currently learning Next.js<br>
+        👯 Looking to collaborate on open-source projects
+      </p>
+    </td>
 
-###
-
-<p align="left">I'm Tanvir Hossain from Chittagong,Bangladesh<br>- 🔭 I’m working as Web Developer<br>- 📚 I'm currently learning Next.JS<br>- 👯 I’m looking - To collaborate on open source projects.</p>
-
-####
-<a href="https://app.daily.dev/tanvir2"><img src="https://api.daily.dev/devcards/v2/nhkh7buAm7LQFqAc57YWj.png?r=tg2&type=default" width="356" alt="Tanvir's Dev Card"/></a>
+    <!-- Right Side: Dev Card -->
+    <td width="40%" align="center">
+      <a href="https://app.daily.dev/tanvir2">
+        <img
+          src="https://api.daily.dev/devcards/v2/nhkh7buAm7LQFqAc57YWj.png?r=tg2&type=default"
+          width="300"
+          alt="Tanvir's Dev Card"
+        />
+      </a>
+    </td>
+  </tr>
+</table>
 
 ###
 
