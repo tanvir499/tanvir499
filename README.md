@@ -6,7 +6,6 @@
 
 
 
-
 <div align="center">
   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
   <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
@@ -33,6 +32,9 @@
 ###
 
 <p align="left">I'm Tanvir Hossain from Chittagong,Bangladesh<br>- 🔭 I’m working as Web Developer<br>- 📚 I'm currently learning Next.JS<br>- 👯 I’m looking - To collaborate on open source projects.</p>
+
+####
+<a href="https://app.daily.dev/tanvir2"><img src="https://api.daily.dev/devcards/v2/nhkh7buAm7LQFqAc57YWj.png?r=tg2&type=default" width="356" alt="Tanvir's Dev Card"/></a>
 
 ###
 
