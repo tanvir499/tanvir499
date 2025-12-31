@@ -30,22 +30,6 @@
 
 ###
 
-<!-- <img
-  align="right"
-  src="https://api.daily.dev/devcards/v2/nhkh7buAm7LQFqAc57YWj.png?r=tg2"
-  width="280"
-  alt="Tanvir's Dev Card"
-/> -->
-<p align="center">
-  <a href="https://app.daily.dev/tanvir2">
-    <img
-      src="https://api.daily.dev/devcards/v2/nhkh7buAm7LQFqAc57YWj.png?r=tg2"
-      width="280"
-      alt="Tanvir's Dev Card"
-    />
-  </a>
-</p>
-
 <h3 align="center">👩‍💻 About Me</h3>
 
 <p align="center">
@@ -54,7 +38,6 @@ I'm <strong>Tanvir Hossain</strong> from Chittagong, Bangladesh 🇧🇩<br>
 📚 Currently learning Next.js<br>
 👯 Looking to collaborate on open-source projects
 </p>
-
 
 
 ###
