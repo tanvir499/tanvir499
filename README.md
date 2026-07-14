@@ -30,13 +30,13 @@
 
 ###
 
-<h3 align="center">👩‍💻 About Me</h3>
+<h3 align="center"> About Me</h3>
 
 <p align="center">
 I'm <strong>Tanvir Hossain</strong> from Chittagong, Bangladesh 🇧🇩<br>
-🔭 Working as a Web Developer<br>
-📚 Currently learning Next.js<br>
-👯 Looking to collaborate on open-source projects
+ Working as a Web Developer<br>
+ Currently learning Next.js<br>
+ Looking to collaborate on open-source projects
 </p>
 
 
@@ -68,7 +68,7 @@ I'm <strong>Tanvir Hossain</strong> from Chittagong, Bangladesh 🇧🇩<br>
 
 ###
 
-<h3 align="center">🔥   My Stats :</h3>
+<h3 align="center">   My Stats :</h3>
 
 ###
 
